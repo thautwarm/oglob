@@ -1,3 +1,4 @@
+[![Python Test](https://github.com/thautwarm/oglob/actions/workflows/python-test.yml/badge.svg?branch=main)](https://github.com/thautwarm/oglob/actions/workflows/python-test.yml)
 [![PyPI version](https://img.shields.io/pypi/v/oglob.svg)](https://pypi.python.org/pypi/oglob)
 [![MIT License](https://img.shields.io/badge/license-MIT-Green.svg?style=flat)](https://github.com/thautwarm/oglob/blob/main/LICENSE)
 
